@@ -1,0 +1,102 @@
+﻿
+Centralna	centralna
+dolnośląskie	wojewodzka	Centralna	67
+kujawsko-Pomorskie	wojewodzka	Centralna	53
+lubelskie	wojewodzka	Centralna	34
+lubuskie	wojewodzka	Centralna	93
+łódzkie	wojewodzka	Centralna	27
+małopolskie	wojewodzka	Centralna	59
+mazowieckie	wojewodzka	Centralna	1
+opolskie	wojewodzka	Centralna	66
+podkarpackie	wojewodzka	Centralna	65
+podlaskie	wojewodzka	Centralna	40
+pomorskie	wojewodzka	Centralna	68
+śląskie	wojewodzka	Centralna	64
+świętokrzyskie	wojewodzka	Centralna	35
+warmińsko-mazurskie	wojewodzka	Centralna	43
+wielkopolskie	wojewodzka	Centralna	62
+zachodniopomorskie	wojewodzka	Centralna	114
+Wrocław	regionalna	dolnośląskie	1
+Jelenia Góra	regionalna	dolnośląskie	23
+Wałbrzych	regionalna	dolnośląskie	17
+Legnica	regionalna	dolnośląskie	16
+Głogów	regionalna	dolnośląskie	22
+Oława	regionalna	dolnośląskie	5
+Świdnica	regionalna	dolnośląskie	11
+Zgorzelec	regionalna	dolnośląskie	34
+Bydgoszcz	regionalna	kujawsko-pomorskie	1
+Grudziądz	regionalna	kujawsko-pomorskie	15
+Inowrocław	regionalna	kujawsko-pomorskie	9
+Toruń	regionalna	kujawsko-pomorskie	10
+Włocławek	regionalna	kujawsko-pomorskie	21
+Biała Podlaska	regionalna	lubelskie	25
+Chełm	regionalna	lubelskie	14
+Lublin	regionalna	lubelskie	1
+Zamość	regionalna	lubelskie	17
+Łuków	regionalna	lubelskie	19
+Biłgoraj	regionalna	lubelskie	17
+Gorzów Wielkopolski	regionalna	lubuskie	1
+Zielona Góra	regionalna	lubuskie	22
+Żary	regionalna	lubuskie	32
+Nowa Sól	regionalna	lubuskie	26
+Łódź	regionalna	łódzkie	1
+Piotrków Trybunalski	regionalna	łódzkie	11
+Pabianice	regionalna	łódzkie	3
+Tomaszów Mazowiecki	regionalna	łódzkie	10
+Bełchatów	regionalna	łódzkie	11
+Kraków	regionalna	małopolskie	1
+Nowy Sącz	regionalna	małopolskie	22
+Oświęcim	regionalna	małopolskie	14
+Chrzanów	regionalna	małopolskie	10
+Zakopane	regionalna	małopolskie	21
+Tarnów	regionalna	małopolskie	16
+Warszawa	regionalna	mazowieckie	1
+Ostrołęka	regionalna	mazowieckie	26
+Płock	regionalna	mazowieckie	23
+Radom	regionalna	mazowieckie	21
+Siedlce	regionalna	mazowieckie	18
+Piaseczno	regionalna	mazowieckie	5
+Opole	regionalna	opolskie	1
+Nysa	regionalna	opolskie	11
+Kędzierzyn-Koźle	regionalna	opolskie	11
+Brzeg	regionalna	opolskie	9
+Rzeszów	regionalna	podkarpackie	1
+Mielec	regionalna	podkarpackie	12
+Dębica	regionalna	podkarpackie	10
+Jarosław	regionalna	podkarpackie	12
+Krosno	regionalna	podkarpackie	11
+Białystok	regionalna	podlaskie	1
+Suwałki	regionalna	podlaskie	25
+Łomża	regionalna	podlaskie	16
+Gdańsk	regionalna	pomorskie	1
+Gdynia	regionalna	pomorskie	4
+Słupsk	regionalna	pomorskie	24
+Sopot	regionalna	pomorskie	2
+Wejherowo	regionalna	pomorskie	12
+Kartuzy	regionalna	pomorskie	3
+Katowice	regionalna	śląskie	1
+Częstochowa	regionalna	śląskie	16
+Sosnowiec	regionalna	śląskie	2
+Gliwice	regionalna	śląskie	6
+Zabrze	regionalna	śląskie	4
+Bielsko-Biała	regionalna	śląskie	12
+Bytom	regionalna	śląskie	3
+Kielce	regionalna	świętokrzyskie	1
+Ostrowiec Świętokrzyski	regionalna	świętokrzyskie	12
+Starachowice	regionalna	świętokrzyskie	9
+Jędrzejów	regionalna	świętokrzyskie	8
+Elbląg	regionalna	warmińsko-mazurskie	22
+Olsztyn	regionalna	warmińsko-mazurskie	1
+Szczytno	regionalna	warmińsko-mazurskie	10
+Nidzica	regionalna	warmińsko-mazurskie	12
+Kalisz	regionalna	wielkopolskie	28
+Konin	regionalna	wielkopolskie	20
+Leszno	regionalna	wielkopolskie	16
+Poznań	regionalna	wielkopolskie	1
+Gniezno	regionalna	wielkopolskie	12
+Ostrów Wielkopolski	regionalna	wielkopolskie	25
+Piła	regionalna	wielkopolskie	20
+Koszalin	regionalna	zachodniopomorskie	32
+Szczecin	regionalna	zachodniopomorskie	1
+Świnoujście	regionalna	zachodniopomorskie	23
+Stargard	regionalna	zachodniopomorskie	8

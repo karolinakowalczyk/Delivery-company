@@ -1,0 +1,16 @@
+﻿
+0.5	Stargard	Słupsk	Emilia	Kania
+2.25	Wrocław	Oława	Sebastian	Szulc
+10.0	Biała Podlaska	Żary	Tomasz	Wawrzyniak
+16.4	Częstochowa	Płock	Oliwia	Janik
+7.5	Warszawa	Warszawa	Kacper	Paluch
+1.0	Zakopane	Radom	Aleksandra	Kuczyńska
+0.5	Katowice	Częstochowa	Paweł	Wróbel
+2.25	Opole	Kielce	Oliwia	Wojciechowska
+10.0	Brzeg	Wrocław	Piotr	Krzemiński
+16.4	Dębica	Gliwice	Łukasz	Wojciechowski
+7.5	Tarnów	Łomża	Weronika	Jaworska
+1.0	Bytom	Zielona Góra	Zofia	Urbaniak
+5.0	Opole	Jelenia Góra	Bartek	Sikorski
+6.3	Warszawa	Gdynia	Kacper	Orłowski
+0.5	Olsztyn	Katowice	Natalia	Kuczyńska

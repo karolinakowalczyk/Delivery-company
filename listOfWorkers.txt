@@ -1,0 +1,117 @@
+﻿
+Sylwia	Wójcik	manager	5	15	3500.0
+Kacper	Sroka	courier	9	19	3000.0
+Michał	Pawlak	courier	7	15	2500.0
+Aleksandra	Urbaniak	courier	14	22	2600.0
+Monika	Górska	courier	4	19	2500.0
+Olga	Podstawa	courier	15	20	2500.0
+Oliwia	Marzec	courier	4	14	2500.0
+Jan	Kania	courier	3	10	2500.0
+Katarzyna	Mors	courier	8	18	2500.0
+Jan	Dominik	courier	10	20	2500.0
+Ewelina	Kokot	courier	4	14	2500.0
+Maciej	Chojnacki	courier	7	17	2500.0
+Marek	Franczak	courier	6	16	2600.0
+Alicja	Barańczak	courier	8	18	2500.0
+Wojtek	Dudek	courier	6	16	2500.0
+Jan	Majewski	courier	8	18	2500.0
+Maria	Wojciechowska	sortingDeptWorker	Centralna	9	19	3000.0
+Hanna	Kucharska	sortingDeptWorker	dolnośląskie	9	15	2500.0
+Julia	Kopeć	sortingDeptWorker	kujawsko-pomorskie	9	15	2500.0
+Mikołaj	Baran	sortingDeptWorker	lubelskie	9	15	2500.0
+Irena	Kamińska	sortingDeptWorker	lubuskie	9	15	2500.0
+Paweł	Kaczor	sortingDeptWorker	łódzkie	9	15	2500.0
+Bartek	Wojciechowski	sortingDeptWorker	małopolskie	9	15	2500.0
+Aleksander	Wiśniewski	sortingDeptWorker	mazowieckie	9	15	2500.0
+Hanna	Sobczak	sortingDeptWorker	podlaskie	9	15	2500.0
+Oskar	Zalewski	sortingDeptWorker	pomorskie	9	15	2500.0
+Mikołaj	Jankowski	sortingDeptWorker	śląskie	9	15	2500.0
+Wojciech	Kujawa	sortingDeptWorker	świętokrzyskie	9	15	2500.0
+Natalia	Zielińska	sortingDeptWorker	warmińsko-mazurskie	9	15	2500.0
+Kacper	Kowalczyk	sortingDeptWorker	wielkopolskie	9	15	2500.0
+Milena	Zielińska	sortingDeptWorker	zachodniopomorskie	9	15	2500.0
+Joanna	Kozioł	sortingDeptWorker	Wrocław	9	15	2500.0
+Miłosz	Wesołowski	sortingDeptWorker	Jelenia Góra	9	15	2500.0
+Maja	Szczepańska	sortingDeptWorker	Wałbrzych	9	15	2500.0
+Oliwia	Wiśniewska	sortingDeptWorker	Legnica	9	15	2500.0
+Radosław	Mucha	sortingDeptWorker	Głogów	9	15	2500.0
+Oliwia	Stasiak	sortingDeptWorker	Oława	9	15	2500.0
+Karolina	Wójcik	sortingDeptWorker	Świdnica	9	15	2500.0
+Zuzanna	Sobczyk	sortingDeptWorker	Zgorzelec	9	15	2500.0
+Ilona	Krupa	sortingDeptWorker	Bydgoszcz	9	15	2500.0
+Paweł	Małek	sortingDeptWorker	Grudziądz	9	15	2500.0
+Kacper	Jabłoński	sortingDeptWorker	Inowrocław	9	15	2500.0
+Julia	Sokołowska	sortingDeptWorker	Toruń	9	15	2500.0
+Maria	Kowalska	sortingDeptWorker	Włocławek	9	15	2500.0
+Alicja	Janicka	sortingDeptWorker	Biała Podlaska	9	15	2500.0
+Helena	Stasiak	sortingDeptWorker	Chełm	9	15	2500.0
+Marzena	Rybak	sortingDeptWorker	Lublin	9	15	2500.0
+Julia	Nowakowska	sortingDeptWorker	Zamość	9	15	2500.0
+Maciej	Piotrowski	sortingDeptWorker	Łuków	9	15	2500.0
+Julia	Wiśniewska	sortingDeptWorker	Biłgoraj	9	15	2500.0
+Oliwia	Dąbrowska	sortingDeptWorker	Gorzów Wielkopolski	9	15	2500.0
+Aleksandra	Laskowska	sortingDeptWorker	Zielona Góra	9	15	2500.0
+Eliza	Nowak	sortingDeptWorker	Żary	9	15	2500.0
+Jakub	Malinowski	sortingDeptWorker	Nowa Sól	9	15	2500.0
+Milena	Marciniak	sortingDeptWorker	Łódź	9	15	2500.0
+Jakub	Chmielewski	sortingDeptWorker	Piotrków Trybunalski	9	15	2500.0
+Julia	Nowak	sortingDeptWorker	Pabianice	9	15	2500.0
+Paulina	Szulc	sortingDeptWorker	Tomaszów Mazowiecki	9	15	2500.0
+Nikola	Skowrońska	sortingDeptWorker	Bełchatów	9	15	2500.0
+Julia	Duda	sortingDeptWorker	Kraków	9	15	2500.0
+Oliwia	Adamczyk	sortingDeptWorker	Nowy Sącz	9	15	2500.0
+Krzysztof	Rogowski	sortingDeptWorker	Oświęcim	9	15	2500.0
+Adrianna	Czyż	sortingDeptWorker	Chrzanów	9	15	2500.0
+Karolina	Stępień	sortingDeptWorker	Zakopane	9	15	2500.0
+Jakub	Marek	sortingDeptWorker	Tarnów	9	15	2500.0
+Jakub	Górski	sortingDeptWorker	Warszawa	9	15	2500.0
+Stefan	Wysocki	sortingDeptWorker	Ostrołęka	9	15	2500.0
+Julita	Nowak	sortingDeptWorker	Płock	9	15	2500.0
+Kacper	Zieliński	sortingDeptWorker	Radom	9	15	2500.0
+Mateusz	Lewandowski	sortingDeptWorker	Siedlce	9	15	2500.0
+Izabela	Włodarczyk	sortingDeptWorker	Piaseczno	9	15	2500.0
+Helena	Wesołowska	sortingDeptWorker	Opole	9	15	2500.0
+Patryk	Michalik	sortingDeptWorker	Nysa	9	15	2500.0
+Tymon	Kruk	sortingDeptWorker	Kędzierzyn-Koźle	9	15	2500.0
+Łukasz	Ziółkowski	sortingDeptWorker	Brzeg	9	15	2500.0
+Julia	Brzozowska	sortingDeptWorker	Rzeszów	9	15	2500.0
+Kamil	Wróbel	sortingDeptWorker	Mielec	9	15	2500.0
+Marcel	Gajda	sortingDeptWorker	Dębica	9	15	2500.0
+Ewa	Jasińska	sortingDeptWorker	Jarosław	9	15	2500.0
+Barbara	Jarosz	sortingDeptWorker	Krosno	9	15	2500.0
+Antoni	Cieślak	sortingDeptWorker	Białystok	9	15	2500.0
+Martyna	Nowakowska	sortingDeptWorker	Suwałki	9	15	2500.0
+Mateusz	Sikora	sortingDeptWorker	Łomża	9	15	2500.0
+Antoni	Górski	sortingDeptWorker	Gdańsk	9	15	2500.0
+Maksymilian	Janicki	sortingDeptWorker	Gdynia	9	15	2500.0
+Natalia	Wesołowska	sortingDeptWorker	Słupsk	9	15	2500.0
+Kacper	Dębski	sortingDeptWorker	Sopot	9	15	2500.0
+Sebastian	Kowalczyk	sortingDeptWorker	Wejherowo	9	15	2500.0
+Rafał	Zalewski	sortingDeptWorker	Kartuzy	9	15	2500.0
+Maja	Szulc	sortingDeptWorker	Katowice	9	15	2500.0
+Alicja	Kowalczyk	sortingDeptWorker	Częstochowa	9	15	2500.0
+Kazimierz	Andrzejewski	sortingDeptWorker	Sosnowiec	9	15	2500.0
+Witold	Wieczorek	sortingDeptWorker	Gliwice	9	15	2500.0
+Emilia	Adamczyk	sortingDeptWorker	Zabrze	9	15	2500.0
+Aleksandra	Olejniczak	sortingDeptWorker	Oława	9	15	2500.0
+Michał	Michałowski	sortingDeptWorker	Bielsko-Biała	9	15	2500.0
+Kajetan	Marciniak	sortingDeptWorker	Bytom	9	15	2500.0
+Filip	Kwiatkowski	sortingDeptWorker	Kielce	9	15	2500.0
+Szymon	Markowski	sortingDeptWorker	Ostrowiec Świętokrzyski	9	15	2500.0
+Adrian	Szewczyk	sortingDeptWorker	Starachowice	9	15	2500.0
+Jakub	Laskowski	sortingDeptWorker	Jędrzejów	9	15	2500.0
+Konrad	Kurowski	sortingDeptWorker	Elbląg	9	15	2500.0
+Stanisław	Koziel	sortingDeptWorker	Olsztyn	9	15	2500.0
+Alicja	Wiśniewska	sortingDeptWorker	Szczytno	9	15	2500.0
+Aleksandra	Kubiak	sortingDeptWorker	Nidzica	9	15	2500.0
+Weronika	Czaja	sortingDeptWorker	Kalisz	9	15	2500.0
+Weronika	Dębska	sortingDeptWorker	Konin	9	15	2500.0
+Mareusz	Majchrzak	sortingDeptWorker	Leszno	9	15	2500.0
+Stanisław	Ziółkowski	sortingDeptWorker	Poznań	9	15	2500.0
+Zofia	Krajewska	sortingDeptWorker	Gniezno	9	15	2500.0
+Oskar	Kowalski	sortingDeptWorker	Ostrów Wielkopolski	9	15	2500.0
+Agnieszka	Gajewska	sortingDeptWorker	Piła	9	15	2500.0
+Tymon	Nowicki	sortingDeptWorker	Koszalin	9	15	2500.0
+Aleksandra	Żukowska	sortingDeptWorker	Szczecin	9	15	2500.0
+Michał	Kowalczyk	sortingDeptWorker	Świnoujście	9	15	2500.0
+Jakub	Kamiński	sortingDeptWorker	Stargard	9	15	2500.0
